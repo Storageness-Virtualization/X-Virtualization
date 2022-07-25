@@ -1,0 +1,6 @@
+Version: 81b98e0425e17250cc83d5badaf9a8cc6399f481 - 245
+Odysseus support: no
+[INFO] 32-bit device detected
+[Error] can't init, no device found
+Failed with errorcode=-3
+ERROR: Device is in an invalid state

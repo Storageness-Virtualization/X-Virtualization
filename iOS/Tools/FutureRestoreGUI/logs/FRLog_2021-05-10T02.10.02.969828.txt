@@ -1,0 +1,17 @@
+Version: 0ab9df3209ee599f581532d05d331e6abe0f53f3 - 194
+img4tool version: 0.197-aca6cf005c94caf135023263cbb5c61a0081804f
+Odysseus support: no
+INFO: device serial number is FFMW323SHFLV
+[INFO] 64-bit device detected
+futurerestore init done
+futurerestore: failed with exception:
+[exception]:
+what=failed to load APTicket at D:\? Virtualization ?\FutureRestore GUI\FutureRestore GUI\6211837111279662_iPhone10,6_d221ap_14.3-18C66_15400076bc4c35a7c8caefdcae5bda69c140a11bce870548f0862aac28c194cc.shsh2
+what=failed to load APTicket at D:\? Virtualization ?\FutureRestore GUI\FutureRestore GUI\6211837111279662_iPhone10,6_d221ap_14.3-18C66_15400076bc4c35a7c8caefdcae5bda69c140a11bce870548f0862aac28c194cc.shsh2
+
+code=22282257
+code=22282257
+line=340
+file=futurerestore.cpp
+commit count=194:
+commit sha  =0ab9df3209ee599f581532d05d331e6abe0f53f3:
